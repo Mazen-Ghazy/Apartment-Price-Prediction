@@ -75,7 +75,7 @@ Model Loss:
 Model Loss:
 
 ```
-CURRENT_LOSS
+0.051507159052276034
 ```
 
 The normalization process significantly improved the model performance by reducing the training loss.
